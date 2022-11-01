@@ -1,4 +1,4 @@
-### Hi there!👋  It's @satoshin21!
+### @satoshin21
 I'm usually an iOS engineer in Tokyo, Japan. I love animation and Redux architecture especially.
 Currently working at [Mobility Technologies](https://mo-t.com/) as iOS Application Engineer. I've also worked at [DeNA](https://dena.com/intl/), [Eureka](https://eure.jp/) and more.
 And I try Flutter/Dart at outside of work, looking for work with Flutter.
